@@ -1,0 +1,86 @@
+* {
+color:yellow;
+}
+body{
+	background-image: url(bg1.jpg);
+background-size: cover;
+}
+h1 {
+background-color:gray;
+font-size:42px;
+text-align:center;
+}
+
+.footer {
+text-align:center;
+color:yellow;
+font-size:18px;
+}
+
+#paragraph1 {
+text-align:justify;
+color:white;
+font-size:20px;
+word-spacing: 3px;
+line-height: 40px;
+margin-top:22px;
+margin-bottom:22px;
+margin-right:80px;
+margin-left:80px;
+}
+.links {
+text-align:right;
+}	
+#paragraph2 {
+text-align:center;
+color:white;
+font-size:28px;
+background-color:gray;
+}
+
+.bodys{
+	background-image: url(bg4.jpg);
+background-size: cover;
+
+}
+.bodyf{
+	background-image: url(bg2.jpg);
+background-size: cover;
+
+}
+
+#paragraphfee1 {
+text-align:justify;
+color:white;
+font-size:20px;
+word-spacing: 3px;
+line-height: 40px;
+margin-top:52px;
+margin-bottom:52px;
+margin-right:80px;
+margin-left:80px;
+}
+#paragraphfee2 {
+color:red;
+font-size:25px;
+word-spacing: 3px;
+text-align: center;
+}
+
+li{
+	color:white;
+font-size:18px;
+}
+b{
+	font-size:23px;
+}
+ul{
+		color:yellow;
+font-size:20px;
+}
+.Note{
+	background-color: yellow;
+  color: red;
+  text-align: center;
+  font-size:18px;
+}
