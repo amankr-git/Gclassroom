@@ -23,23 +23,3 @@ cout<<"Total interest payable over the loan term = "<<tist;
 return 0;
 
 }
-
-
-/*#include<iostream>
-#include<math.h>			
- using namespace std;
- 
-{
-	float principal,rate,time,emi,rateinm,timeinm;
-	cout<<"Enter Principle(amount), Rate (in years) and Time(in years):\n";
-	cin>>principal>>rate>>time;
-	rateinm=rate/(12*100);
-	timeinm=time*12;
-	cout<<"Rate in months="<<rateinm;
-	cout<<"Time in months="<<timeinm;
-	emi=(principal*rateinm*pow((1+rateinm,timeinm));			 
-	
-	
-	cout<<"emi = "<<emi;
-   return 0;
-}*/
